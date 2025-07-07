@@ -51,7 +51,7 @@
    "peerDependencies": {
       "react": "^18",
       "react-dom": "^18",
-      "react-leaflet": "^3.0.0",
+      "react-leaflet": "^4.2.1",
       "leaflet": "^1.7.1"
    }
 }
